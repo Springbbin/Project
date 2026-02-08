@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "NanumPenscript";
-  src: url("/NanumPenScript-Regular.ttf");
+  font-family: "IncheonRegular";
+  src: url("/IncheonRegular.ttf") format("truetype");
 }
 
 html,
@@ -23,5 +23,5 @@ body {
 }
 
 body * {
-  font-family: "NanumPenscript";
+  font-family: "IncheonRegular";
 }
